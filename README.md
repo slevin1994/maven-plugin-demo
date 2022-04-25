@@ -1,1 +1,1 @@
-# maven_plugin_demo
+# maven-plugin-demo
